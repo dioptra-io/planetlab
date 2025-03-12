@@ -1,0 +1,36 @@
+# Configurations
+title:            PlanetLab
+longtitle:        PlanetLab)
+author:           Dioptra Team
+email:            admins@dioptra.io
+description: >
+  PlanetLab is a global research network powered by the EdgeNet software.
+
+version: 1.0
+gitbook_version: 3.2.3
+
+url: 'https://planetlab.io'
+baseurl: ''
+remote_theme: https://github.com/just-the-docs/just-the-docs
+
+search_enabled: false
+
+# Aux links for the upper right navigation
+#aux_links:
+#  "Dioptra":
+#    - "//dioptra.io"
+#  "Iris":
+#    - "//iris.dioptra.io"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+nav_enabled: true
+
+heading_anchors: true
+
+footer_content: "Copyright &copy; 2025 Sorbonne Université. Distributed under the <a href=\"https://github.com/dioptra-io/iprs/blob/main/LICENSE\">MIT license.</a>"
+
+logo: "/assets/planetlab-logo.png"
+favicon_ico: "/favicon.ico"
+
