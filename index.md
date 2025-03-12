@@ -4,9 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<img width="200" src="{{site.url}}/assets/planetlab.png" style="display: block; margin: auto;" />
-
-# Welcome to PlanetLab
+<img width="200" src="{{site.url}}/assets/planetlab.png" style="display: block; margin: 0 auto 50px auto;" />
 
 PlanetLab is a global research network that serves as an open platform for developing, deploying, 
 and testing distributed systems and network services under real-world conditions at the edge.

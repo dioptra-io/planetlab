@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Joining Planetlab
 
-PlanetLab Europe welcomes companies, universities, and research laboratories 
+PlanetLab welcomes companies, universities, and research laboratories 
 across Europe and around the world to join the testbed.
 
 ## Users

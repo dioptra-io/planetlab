@@ -1,83 +1,69 @@
 {"0": {
     "doc": "About",
+    "title": "About",
+    "content": "PlanetLab, established in 2002, is a global network of computers available as a testbed for computer networking and distributed systems research. As of December 2011, PlanetLab was composed of 1024 nodes at 530 sites worldwide. Each research project runs a “slice”, that gives experimenters access to a virtual machine on each node attached to that slice. ",
+    "url": "/pages/about.html",
+    
+    "relUrl": "/pages/about.html"
+  },"1": {
+    "doc": "About",
     "title": "Acknowledgements",
     "content": " ",
     "url": "/pages/about.html#acknowledgements",
     
     "relUrl": "/pages/about.html#acknowledgements"
-  },"1": {
-    "doc": "About",
-    "title": "Related Initiatives",
-    "content": " ",
-    "url": "/pages/about.html#related-initiatives",
-    
-    "relUrl": "/pages/about.html#related-initiatives"
   },"2": {
-    "doc": "About",
-    "title": "About",
-    "content": " ",
-    "url": "/pages/about.html",
-    
-    "relUrl": "/pages/about.html"
-  },"3": {
-    "doc": "Home",
-    "title": "Welcome to PlanetLab",
-    "content": "PlanetLab is a global research network that serves as an open platform for developing, deploying, and testing distributed systems and network services under real-world conditions at the edge. PlanetLab is powered by the EdgeNet software, a modern edge computing platform built on Kubernetes. ",
-    "url": "/#welcome-to-planetlab",
-    
-    "relUrl": "/#welcome-to-planetlab"
-  },"4": {
     "doc": "Home",
     "title": "Home",
-    "content": " ",
+    "content": ". PlanetLab is a global research network that serves as an open platform for developing, deploying, and testing distributed systems and network services under real-world conditions at the edge. PlanetLab is powered by the EdgeNet software, a modern edge computing platform built on Kubernetes. ",
     "url": "/",
     
     "relUrl": "/"
-  },"5": {
+  },"3": {
     "doc": "Join",
     "title": "Joining Planetlab",
-    "content": "PlanetLab Europe welcomes companies, universities, and research laboratories across Europe and around the world to join the testbed. ",
+    "content": "PlanetLab welcomes companies, universities, and research laboratories across Europe and around the world to join the testbed. ",
     "url": "/pages/join.html#joining-planetlab",
     
     "relUrl": "/pages/join.html#joining-planetlab"
-  },"6": {
+  },"4": {
     "doc": "Join",
     "title": "Users",
-    "content": "You can create an account and join a Team or a Workspace (within your institution or as an external user) . You can also request the creation of a new Team depending on your position at your institution. If you are a student or an intern and your institution is not present in PlanetLab please ask your supervisor to register and request to create a Team. Once the validation process is over they will be able to authorize your account. ",
+    "content": "You can create an account and join a Team or a Workspace (within your institution or as an external user) . You can also request the creation of a new Team depending on your position at your institution. If you are a student or an intern and your institution is not present in PlanetLab please ask your supervisor to register and request to create a Team. Once the validation process is over they will be able to authorize your account. Ple console . ",
     "url": "/pages/join.html#users",
     
     "relUrl": "/pages/join.html#users"
-  },"7": {
+  },"5": {
     "doc": "Join",
     "title": "Teams",
     "content": "A Team can be requested if you are in an authoritative or managerial position at your institution: we welcome professors, instructors who wish to use PlanetLab for laboratory exercises for their classes, researchers, companies CEOs, CTOs etc. Please provide an institutional e-mail address when registering. PlanetLab administrators will verify the information that you provide and, once approved, you will be able to manage your team, ask your users to join and manage workspaces. Team owners and administrators do not need to be familiar with Docker or Kubernetes, they can perform all authorizations via the web console and they can delegate authorization responsibility to a team member. ",
     "url": "/pages/join.html#teams",
     
     "relUrl": "/pages/join.html#teams"
-  },"8": {
+  },"6": {
     "doc": "Join",
     "title": "Workspaces",
     "content": "As a manager of your Team you will be able to create a Workspace or approve requests from your users. With a Workspace you will be able to start to work on your project! . ",
     "url": "/pages/join.html#workspaces",
     
     "relUrl": "/pages/join.html#workspaces"
-  },"9": {
+  },"7": {
     "doc": "Join",
     "title": "Join",
     "content": " ",
     "url": "/pages/join.html",
     
     "relUrl": "/pages/join.html"
-  },"10": {
-    "doc": "Contributing a Node",
+  },"8": {
+    "doc": "Contribute a Node",
     "title": "Contributing a node to PlanetLab",
-    "content": "We accept Node contribution to PlanetLab. ",
+    "content": "We accept Node contribution to PlanetLab. Please refer to the console . ",
     "url": "/pages/nodes.html#contributing-a-node-to-planetlab",
     
     "relUrl": "/pages/nodes.html#contributing-a-node-to-planetlab"
-  },"11": {
-    "doc": "Contributing a Node",
-    "title": "Contributing a Node",
+  },"9": {
+    "doc": "Contribute a Node",
+    "title": "Contribute a Node",
     "content": " ",
     "url": "/pages/nodes.html",
     
