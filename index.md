@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+<img width="200" src="{{site.url}}/assets/planetlab.png" style="display: block; margin: auto;" />
+
 # Welcome to PlanetLab
 
 PlanetLab is a global research network that serves as an open platform for developing, deploying, 
@@ -12,4 +14,3 @@ and testing distributed systems and network services under real-world conditions
 PlanetLab is powered by the [EdgeNet](https://github.com/EdgeNet-project) software, a modern edge computing
 platform built on Kubernetes.
 
-<img width="200" src="{{site.url}}/assets/planetlab.png" style="display: block; margin: auto;" />

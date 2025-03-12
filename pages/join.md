@@ -19,6 +19,8 @@ If you are a student or an intern and your institution is not present in PlanetL
 supervisor to register and request to create a Team.
 Once the validation process is over they will be able to authorize your account.
 
+Ple [console](https://console.edge-net.org/)
+
 ## Teams
 
 A Team can be requested if you are in an authoritative or managerial position at your institution:

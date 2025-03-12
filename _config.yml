@@ -25,6 +25,10 @@ search_enabled: false
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
+aux_links:
+  "Console":
+    - "//console.planetlab.io"
+    -
 nav_enabled: true
 
 heading_anchors: true
