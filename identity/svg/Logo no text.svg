@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="85 97 188 123" width="188" height="123">
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#77c167"/>
+      <stop offset="1" stop-color="white"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(263.62205 136.43539) rotate(180) scale(97.56925)"/>
+    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient" gradientTransform="translate(272.126 173.86338) rotate(180) scale(121.99932)"/>
+    <linearGradient id="Obj_Gradient_3" xl:href="#Gradient" gradientTransform="translate(209.1484 155.22454) rotate(180) scale(124.10903)"/>
+    <linearGradient id="Obj_Gradient_4" xl:href="#Gradient" gradientTransform="translate(180.92933 192.39848) rotate(180) scale(70.378145)"/>
+    <linearGradient id="Obj_Gradient_5" xl:href="#Gradient" gradientTransform="translate(193.83656 118.13475) rotate(180) scale(88.95466)"/>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.6\n2025-04-02 14:10:35 +0000</metadata>
+  <g id="Logo_no_text" fill="none" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none">
+    <title>Logo no text</title>
+    <g id="Logo_no_text_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_36">
+        <g id="Graphic_14">
+          <title>Rectangle</title>
+          <rect x="166.0528" y="134.95104" width="97.56925" height="2.9686864" fill="url(#Obj_Gradient)"/>
+        </g>
+        <g id="Graphic_13">
+          <rect x="150.12667" y="172.37904" width="121.99932" height="2.9686864" fill="url(#Obj_Gradient_2)"/>
+        </g>
+        <g id="Graphic_12">
+          <rect x="85.03937" y="153.7402" width="124.10903" height="2.9686864" fill="url(#Obj_Gradient_3)"/>
+        </g>
+        <g id="Graphic_11">
+          <rect x="110.55118" y="190.91414" width="70.378145" height="2.9686864" fill="url(#Obj_Gradient_4)"/>
+        </g>
+        <g id="Graphic_10">
+          <title>Rectangle</title>
+          <rect x="104.88189" y="116.65041" width="88.95466" height="2.9686864" fill="url(#Obj_Gradient_5)"/>
+        </g>
+        <g id="Graphic_9">
+          <title>Circle</title>
+          <circle cx="181.16602" cy="158.48885" r="56.6930036451332" stroke="#005caa" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+        </g>
+        <g id="Graphic_8">
+          <title>Circle</title>
+          <circle cx="185.2651" cy="192.39848" r="5.90315903496199" fill="#005caa"/>
+        </g>
+        <g id="Graphic_7">
+          <title>Circle</title>
+          <circle cx="149.83302" cy="173.8795" r="5.90741087101372" fill="#005caa"/>
+        </g>
+        <g id="Graphic_6">
+          <title>Circle</title>
+          <circle cx="216.46947" cy="154.89842" r="8.24174531705291" fill="#005caa"/>
+        </g>
+        <g id="Graphic_5">
+          <title>Circle</title>
+          <circle cx="105.04788" cy="155.53283" r="4.4263062116096" fill="#005caa"/>
+        </g>
+        <g id="Graphic_4">
+          <title>Circle</title>
+          <circle cx="252.44503" cy="136.43539" r="4.01102989975986" fill="#005caa"/>
+        </g>
+        <g id="Graphic_3">
+          <title>Circle</title>
+          <circle cx="166.19804" cy="136.43539" r="4.95071650208541" fill="#005caa"/>
+        </g>
+        <g id="Graphic_2">
+          <title>Circle</title>
+          <circle cx="198.27284" cy="118.13475" r="5.90315903496199" fill="#005caa"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
