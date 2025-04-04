@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="51 97 256 201" width="256" height="201">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="51 97 253.4173 201" width="253.4173" height="201">
   <defs>
     <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#77c167"/>
       <stop offset="1" stop-color="white"/>
     </linearGradient>
-    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(264.04708 136.43539) rotate(180) scale(97.56925)"/>
-    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient" gradientTransform="translate(272.55102 173.86338) rotate(180) scale(121.99932)"/>
-    <linearGradient id="Obj_Gradient_3" xl:href="#Gradient" gradientTransform="translate(209.57343 155.22454) rotate(180) scale(124.10903)"/>
-    <linearGradient id="Obj_Gradient_4" xl:href="#Gradient" gradientTransform="translate(181.35436 192.39848) rotate(180) scale(70.378145)"/>
-    <linearGradient id="Obj_Gradient_5" xl:href="#Gradient" gradientTransform="translate(194.26158 118.13475) rotate(180) scale(88.95466)"/>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(261.21244 136.43539) rotate(180) scale(97.56925)"/>
+    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient" gradientTransform="translate(269.71637 173.86338) rotate(180) scale(121.99932)"/>
+    <linearGradient id="Obj_Gradient_3" xl:href="#Gradient" gradientTransform="translate(206.73879 155.22454) rotate(180) scale(124.10903)"/>
+    <linearGradient id="Obj_Gradient_4" xl:href="#Gradient" gradientTransform="translate(178.5197 192.39848) rotate(180) scale(70.378145)"/>
+    <linearGradient id="Obj_Gradient_5" xl:href="#Gradient" gradientTransform="translate(191.42694 118.13475) rotate(180) scale(88.95466)"/>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.6\n2025-04-04 09:52:03 +0000</metadata>
+  <metadata> Produced by OmniGraffle 7.18.6\n2025-04-04 10:00:55 +0000</metadata>
   <g id="Logo_v3_vertical_alt" fill="none" stroke="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none">
     <title>Logo v3 vertical alt</title>
     <g id="Logo_v3_vertical_alt_Layer_1">
@@ -20,52 +20,52 @@
       <g id="Group_36">
         <g id="Graphic_14">
           <title>Rectangle</title>
-          <rect x="166.47783" y="134.95104" width="97.56925" height="2.9686864" fill="url(#Obj_Gradient)"/>
+          <rect x="163.64319" y="134.95104" width="97.56925" height="2.9686864" fill="url(#Obj_Gradient)"/>
         </g>
         <g id="Graphic_13">
-          <rect x="150.5517" y="172.37904" width="121.99932" height="2.9686864" fill="url(#Obj_Gradient_2)"/>
+          <rect x="147.71705" y="172.37904" width="121.99932" height="2.9686864" fill="url(#Obj_Gradient_2)"/>
         </g>
         <g id="Graphic_12">
-          <rect x="85.4644" y="153.7402" width="124.10903" height="2.9686864" fill="url(#Obj_Gradient_3)"/>
+          <rect x="82.62975" y="153.7402" width="124.10903" height="2.9686864" fill="url(#Obj_Gradient_3)"/>
         </g>
         <g id="Graphic_11">
-          <rect x="110.97621" y="190.91414" width="70.378145" height="2.9686864" fill="url(#Obj_Gradient_4)"/>
+          <rect x="108.14157" y="190.91414" width="70.378145" height="2.9686864" fill="url(#Obj_Gradient_4)"/>
         </g>
         <g id="Graphic_10">
           <title>Rectangle</title>
-          <rect x="105.30692" y="116.65041" width="88.95466" height="2.9686864" fill="url(#Obj_Gradient_5)"/>
+          <rect x="102.47227" y="116.65041" width="88.95466" height="2.9686864" fill="url(#Obj_Gradient_5)"/>
         </g>
         <g id="Graphic_9">
           <title>Circle</title>
-          <circle cx="181.59104" cy="158.48885" r="56.6930036451332" stroke="#005caa" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+          <circle cx="178.7564" cy="158.48885" r="56.6930036451332" stroke="#005caa" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
         </g>
         <g id="Graphic_8">
           <title>Circle</title>
-          <circle cx="185.69014" cy="192.39848" r="5.90315903496199" fill="#005caa"/>
+          <circle cx="182.8555" cy="192.39848" r="5.90315903496199" fill="#005caa"/>
         </g>
         <g id="Graphic_7">
           <title>Circle</title>
-          <circle cx="150.25804" cy="173.8795" r="5.90741087101371" fill="#005caa"/>
+          <circle cx="147.4234" cy="173.8795" r="5.90741087101372" fill="#005caa"/>
         </g>
         <g id="Graphic_6">
           <title>Circle</title>
-          <circle cx="216.8945" cy="154.89842" r="8.2417453170529" fill="#005caa"/>
+          <circle cx="214.05985" cy="154.89842" r="8.24174531705289" fill="#005caa"/>
         </g>
         <g id="Graphic_5">
           <title>Circle</title>
-          <circle cx="105.4729" cy="155.53283" r="4.4263062116096" fill="#005caa"/>
+          <circle cx="102.63826" cy="155.53283" r="4.4263062116096" fill="#005caa"/>
         </g>
         <g id="Graphic_4">
           <title>Circle</title>
-          <circle cx="252.87006" cy="136.43539" r="4.01102989975987" fill="#005caa"/>
+          <circle cx="250.03542" cy="136.43539" r="4.01102989975985" fill="#005caa"/>
         </g>
         <g id="Graphic_3">
           <title>Circle</title>
-          <circle cx="166.62307" cy="136.43539" r="4.95071650208541" fill="#005caa"/>
+          <circle cx="163.78843" cy="136.43539" r="4.95071650208541" fill="#005caa"/>
         </g>
         <g id="Graphic_2">
           <title>Circle</title>
-          <circle cx="198.69787" cy="118.13475" r="5.90315903496199" fill="#005caa"/>
+          <circle cx="195.86322" cy="118.13475" r="5.90315903496199" fill="#005caa"/>
         </g>
       </g>
       <g id="Group_61">
