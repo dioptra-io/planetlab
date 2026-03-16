@@ -6,11 +6,6 @@ nav_order: 4
 
 ## About
 
-PlanetLab, established in 2002, is a global network of computers available as a testbed 
-for computer networking and distributed systems research. As of December 2011, PlanetLab 
-was composed of 1024 nodes at 530 sites worldwide. Each research project runs a "slice", 
-that gives experimenters access to a virtual machine on each node attached to that slice.
+PlanetLab is a global testbed for computer networking and distributed systems research. It enables experimenters to deploy containers to servers around the world.
 
-## Acknowledgements
-
-
+PlanetLab is now in its third phase. It was founded in 2002 in the United States and grew into one of the most widely used research testbeds in networking (see [PlanetLab History](https://planetlab.cs.princeton.edu/history.html)). In 2007, a European instance was launched and the two instances operated as a federated system, giving researchers access to nodes around the world. In 2020, the US instance closed, leaving the European instance -- now called PlanetLab V3 -- to carry on independently.
