@@ -4,7 +4,7 @@ layout: home
 nav_order: 4
 ---
 
-## About
+<img width="200" src="{{site.url}}/assets/planetlab.png" style="display: block; margin: 0 auto 50px auto;" />
 
 PlanetLab is a global testbed for computer networking and distributed systems research. It enables experimenters to deploy containers to servers around the world.
 
