@@ -3,7 +3,7 @@ layout: page
 title: Use PlanetLab
 nav_order: 2
 ---
-# Using Planetlab
+# Using PlanetLab
 
 We at PlanetLab welcome researchers from around the world to run experiments on our nodes.
 
