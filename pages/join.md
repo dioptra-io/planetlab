@@ -1,44 +1,36 @@
 ---
 layout: page
-title: Join
+title: Use PlanetLab
 nav_order: 2
 ---
-# Joining Planetlab
+# Using Planetlab
 
-PlanetLab welcomes companies, universities, and research laboratories 
-across Europe and around the world to join the testbed.
+We at PlanetLab welcome researchers from around the world to run experiments on our nodes.
 
 ## Users
 
-You can create an account and join a Team or a Workspace 
-(within your institution or as an external user)
+Anyone can create a PlanetLab account, just go to the console, register, and agree to the acceptable use policy.
 
-You can also request the creation of a new Team depending on your position at your institution.
+To use your account to deploy containerized software to the nodes, you need to be approved, which can be obtained in one of two ways:
 
-If you are a student or an intern and your institution is not present in PlanetLab please ask your 
-supervisor to register and request to create a Team.
-Once the validation process is over they will be able to authorize your account.
+- from an existing user in a position of responsibility who knows you and can vouch for you; ask to join their team and/or one of their workspaces via the console
+- from PlanetLab management; if you are in a position of authority (e.g., professor or manager) at your institution, ask to create a team
 
-Ple [console](https://console.edge-net.org/)
+Please provide an institutional e-mail address when registering.
+
+SLICES-RI users are automatically authorized to use the platform.
 
 ## Teams
 
-A Team can be requested if you are in an authoritative or managerial position at your institution:
-we welcome professors, instructors who wish to use PlanetLab for laboratory exercises for their classes,
-researchers, companies CEOs, CTOs etc.
-Please provide an institutional e-mail address when registering.
+PlanetLab welcomes professors, instructors who wish to use the platform for laboratory exercises for their classes, and researchers more generally. While PlanetLab is open to users in industry, they can only use it for not-for-profit purposes.
 
-PlanetLab administrators will verify the information that you provide and, once approved, you will be 
-able to manage your team, ask your users to join and manage workspaces.
+PlanetLab administrators will verify the information that you provide and, once approved, you will be granted  management of a team. At that point, you will be able to ask people to become users of your team, approve or reject team membership requests, and and manage workspaces.
 
-Team owners and administrators do _not_ need to be familiar with Docker or Kubernetes, 
-they can perform all authorizations via the web console and they can delegate authorization
-responsibility to a team member.
+Team managers do _not_ need to be familiar with Docker or Kubernetes, they can perform all authorizations via the web console and they can delegate authorization responsibility to a team member.
 
 ## Workspaces
 
-As a manager of your Team you will be able to create a Workspace or approve requests from your users.
-With a Workspace you will be able to start to work on your project!
+All work is done in workspaces that are created via the console. These correspond to Kubernetes workspaces. 
 
 
 
