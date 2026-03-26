@@ -18,7 +18,7 @@ To use your account to deploy containerized software to the nodes, you need appr
 
 Please provide an institutional e-mail address when registering.
 
-SLICES-RI users are automatically authorized to use the platform.
+Users of the [SLICES-RI portal](https://portal.slices-ri.eu/) are automatically authorized to use PlanetLab, and simply need to authenticate via the "Login with Slices" button on our console.
 
 ## Teams
 
