@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Using PlanetLab
 
-We at PlanetLab welcome researchers from around the world to run experiments on our nodes.
+We at PlanetLab welcome users from around the world to run experiments on our nodes.
 
 ## Become a user
 
