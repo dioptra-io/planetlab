@@ -11,7 +11,7 @@ We at PlanetLab welcome researchers from around the world to run experiments on 
 
 Anyone can create a PlanetLab account, just [go to the console](https://console.planetlab.io/), register, and agree to the acceptable use policy.
 
-To use your account to deploy containerized software to the nodes, you need to be approved, which can be obtained in one of two ways:
+To use your account to deploy containerized software to the nodes, you need approval, which can be obtained in one of two ways:
 
 - from an existing user in a position of responsibility who knows you and can vouch for you; ask to join their team and/or one of their workspaces via the console
 - from PlanetLab management; if you are in a position of authority (e.g., professor or manager) at your institution, ask to create a team
