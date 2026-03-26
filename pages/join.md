@@ -22,7 +22,7 @@ Users of the European Union's [SLICES-RI portal](https://portal.slices-ri.eu/) w
 
 ## Create a team
 
-PlanetLab welcomes university professors, instructors who wish to use the platform for laboratory exercises for their classes, researchers from not-for-profit research institutions, and members of public and industry research laboratories. Industry use is limited to pre-commercial purposes.
+PlanetLab welcomes university professors, instructors who wish to use the platform for laboratory exercises for their classes, researchers from not-for-profit institutions, and members of public and industry research laboratories, and others. Industry use is limited to pre-commercial purposes.
 
 If you are in one of these categories and would like access to PlanetLab for yourself and others with whom you work, become a PlanetLab user and, within the console, request the creation of a team. PlanetLab administrators will verify the information that you provide. Once approved, you will be able to ask people to become users of your team, approve or reject team membership requests, and manage workspaces (see next section).
 
