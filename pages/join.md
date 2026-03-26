@@ -30,4 +30,4 @@ As a team manager, you do _not_ need to be familiar with Docker or Kubernetes. Y
 
 ## Deploy via a workspace
 
-All work is done in workspaces that are created via the console. These correspond to Kubernetes namespaces, and, once a workspace has been created users make use of the familiar `kubectl` command-line tool and YAML configuration files to deploy and manage their containerized software.
+All work is done in workspaces that are created via the console. These correspond to Kubernetes namespaces, and, once a workspace has been created users employ the familiar `kubectl` command-line tool and YAML configuration files to deploy and manage their containerized software.
