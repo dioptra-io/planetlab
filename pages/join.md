@@ -13,10 +13,10 @@ Anyone can create a PlanetLab account, just [go to the console](https://console.
 
 To use your account to deploy containerized software to the nodes, you need approval, which can be obtained in one of two ways:
 
-- from an existing user in a position of responsibility who knows you and can vouch for you; ask to join their team and/or one of their workspaces via the console
-- from PlanetLab management; if you are in a position of authority (e.g., professor or manager) at your institution, ask to create a team
+- **Be vouched for.** Ask an existing user in a position of responsibility who knows you to invite you to their team and/or one of their workspaces via the console
+- **Request your own team.** If you are in a position of authority (e.g., professor or manager) at your institution, use the console to request that PlanetLab management make you manager of a team.
 
-Please provide an institutional e-mail address when registering.
+Using your institutional e-mail address when registering can help you to get approval.
 
 Users of the European Union's [SLICES-RI portal](https://portal.slices-ri.eu/) who have been approved there are automatically authorized to use PlanetLab, and simply need to authenticate via the "Login with Slices" button on our console.
 
