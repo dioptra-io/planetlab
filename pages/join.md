@@ -24,17 +24,10 @@ Users of the [SLICES-RI portal](https://portal.slices-ri.eu/) are automatically 
 
 PlanetLab welcomes university professors, instructors who wish to use the platform for laboratory exercises for their classes, researchers from not-for-profit research institutions, and memebrs of public and industry research laboratories. Industry use is limited to pre-commercial purposes.
 
-PlanetLab administrators will verify the information that you provide and, once approved, you will be granted  management of a team. At that point, you will be able to ask people to become users of your team, approve or reject team membership requests, and and manage workspaces.
+If you are in one of these categories and would like access to PlanetLab for yourself and others with whom you work, become a PlanetLab user and, within the console, request the creation of a team. PlanetLab administrators will verify the information that you provide. Once approved, you will be able to ask people to become users of your team, approve or reject team membership requests, and and manage workspaces (see below).
 
-Team managers do _not_ need to be familiar with Docker or Kubernetes, they can perform all authorizations via the web console and they can delegate authorization responsibility to a team member.
+As a team manager, you do _not_ need to be familiar with Docker or Kubernetes. You can manage your team via entirely via the web console.
 
 ## Deploy via a workspace
 
-All work is done in workspaces that are created via the console. These correspond to Kubernetes workspaces. 
-
-
-
-
-
-
-
+All work is done in workspaces that are created via the console. These correspond to Kubernetes workspaces, and users make use of the familiar kubectl command-line tool and YAML configuration files to deploy and manage their containerized software.
