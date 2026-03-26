@@ -28,7 +28,7 @@ PlanetLab administrators will verify the information that you provide and, once 
 
 Team managers do _not_ need to be familiar with Docker or Kubernetes, they can perform all authorizations via the web console and they can delegate authorization responsibility to a team member.
 
-## Workspaces
+## Deploy via a workspace
 
 All work is done in workspaces that are created via the console. These correspond to Kubernetes workspaces. 
 
