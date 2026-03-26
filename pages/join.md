@@ -14,7 +14,7 @@ Anyone can create a PlanetLab account, just [go to the console](https://console.
 To use your account to deploy containerized software to the nodes, you need approval, which can be obtained in one of two ways:
 
 - **Be vouched for.** Ask an existing user in a position of responsibility who knows you to invite you to their team and/or one of their workspaces via the console
-- **Request your own team.** If you are in a position of authority (e.g., professor or manager) at your institution, use the console to request that PlanetLab management make you manager of a team.
+- **Request your own team.** If you are in a position to be a team leader (see next section), use the console to request that PlanetLab management make you manager of a team.
 
 Using your institutional e-mail address when registering can help you to get approval.
 
