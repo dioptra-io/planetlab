@@ -7,7 +7,7 @@ nav_order: 2
 
 We at PlanetLab welcome researchers from around the world to run experiments on our nodes.
 
-## Users
+## Become a user
 
 Anyone can create a PlanetLab account, just [go to the console](https://console.planetlab.io/), register, and agree to the acceptable use policy.
 
@@ -20,7 +20,7 @@ Please provide an institutional e-mail address when registering.
 
 Users of the [SLICES-RI portal](https://portal.slices-ri.eu/) are automatically authorized to use PlanetLab, and simply need to authenticate via the "Login with Slices" button on our console.
 
-## Teams
+## Create a team
 
 PlanetLab welcomes university professors, instructors who wish to use the platform for laboratory exercises for their classes, and researchers from public and industry research laboratories. Industry use is limited to pre-commercial purposes.
 
