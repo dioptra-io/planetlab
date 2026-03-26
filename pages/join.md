@@ -22,7 +22,7 @@ Users of the [SLICES-RI portal](https://portal.slices-ri.eu/) are automatically 
 
 ## Teams
 
-PlanetLab welcomes professors, instructors who wish to use the platform for laboratory exercises for their classes, and researchers more generally. While PlanetLab is open to users in industry, they can only use it for not-for-profit purposes.
+PlanetLab welcomes university professors, instructors who wish to use the platform for laboratory exercises for their classes, and researchers from public and industry research laboratories. Industry use is limited to pre-commercial purposes.
 
 PlanetLab administrators will verify the information that you provide and, once approved, you will be granted  management of a team. At that point, you will be able to ask people to become users of your team, approve or reject team membership requests, and and manage workspaces.
 
